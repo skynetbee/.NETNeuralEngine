@@ -24,7 +24,8 @@
 3. Or install via command line:
 
    ```bash
-   dotnet add package NeuralEngine --source /path/to/local/folder ```
+   dotnet add package NeuralEngine --source /path/to/local/folder
+   ```
 ---
 ## Wire Up `DevEnv` in **`MainWindow`**
 
