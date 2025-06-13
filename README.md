@@ -24,4 +24,26 @@
 3. Or install via command line:
 
    ```bash
-   dotnet add package NeuralEngine --source /path/to/local/folder
+   dotnet add package NeuralEngine --source /path/to/local/folder ```
+---
+## Wire Up `DevEnv` in **`MainWindow`**
+
+```cs
+EngineStarter.DevEnv(this,
+    new BlankPage1(),
+    new BlankPage2(), 
+    new BlankPage3(),
+    new BlankPage4(), 
+    new BlankPage5(),
+    new BlankPage6(),
+    new BlankPage7(),
+    new BlankPage8(),
+    new BlankPage9(),
+    new BlankPage10(),
+    new WorkAround()); ```
+
+
+
+
+
+indha maari avangaloda MainWindow Constructer la call pana podhum na
