@@ -41,9 +41,3 @@ EngineStarter.DevEnv(this,
     new BlankPage9(),
     new BlankPage10(),
     new WorkAround()); ```
-
-
-
-
-
-indha maari avangaloda MainWindow Constructer la call pana podhum na
