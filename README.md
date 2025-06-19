@@ -13,7 +13,7 @@
 
 ### 🔧 Manual Installation via `.nupkg`
 
-1. Download the `.nupkg` file from the [**Releases**](https://github.com/skynetbee/.NETNeuralEngine/releases/download/13June2025/NeuralEngine) section.
+1. Download the `.nupkg` file from the [**Releases**](https://github.com/skynetbee/.NETNeuralEngine/releases/download/13June2025/NeuralEngine.nupkg) section.
 
 2. In **Visual Studio**:
    - Right-click your project > **Manage NuGet Packages**
